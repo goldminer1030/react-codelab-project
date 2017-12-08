@@ -1,0 +1,34 @@
+{
+  "name": "react-codelab-project",
+  "version": "1.0.0",
+  "description": "ReactJS Codelab Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldminer1030/react-codelab-project.git"
+  },
+  "keywords": [
+    "react.js"
+  ],
+  "author": "goldminer1030",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goldminer1030/react-codelab-project/issues"
+  },
+  "homepage": "https://github.com/goldminer1030/react-codelab-project#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  }
+}
